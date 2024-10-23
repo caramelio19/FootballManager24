@@ -1,4 +1,4 @@
-Selamat datang di project Football Manager Bahasa Indonesia! Saya membuat project ini agar pengalaman bermain kalian akan lebih menyenangkan untuk yang tidak terbiasa dengan Bahasa Inggris. sehingga saya memutuskan untuk menerjemahkan Football Manager ke dalam bahasa Indonesia. Terima kasih sudah support saya! :)
+Selamat datang di project Football Manager Bahasa Indonesia! Saya membuat project ini agar pengalaman bermain kalian akan lebih menyenangkan untuk yang tidak terbiasa dengan Bahasa Inggris. sehingga saya memutuskan untuk menerjemahkan Football Manager ke dalam bahasa Indonesiad dan dibantu oleh AI, Terima kasih sudah support saya! :)
 
 My Linkt.ree: https://linktr.ee/caramelioo
 
