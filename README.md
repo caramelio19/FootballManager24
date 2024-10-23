@@ -2,7 +2,7 @@ Selamat datang di project Football Manager Bahasa Indonesia! Project ini saya bu
 
 CARA INSTALL UNTUK YANG DI SWITCH
 
-atmosphere\contents\01008B101B87A000\pastehere
+Paste file ke: atmosphere\contents\01008B101B87A000\pastehere
 
 CARA INSTALL UNTUK YANG DI EMULATOR PC (Yuzu atau yang lainnya)
 
