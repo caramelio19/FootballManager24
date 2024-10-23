@@ -14,4 +14,6 @@ CARA INSTALL UNTUK YANG DI EMULATOR ANDROID
 
 Untuk yang di android biasanya ada di app\data\nama emu\sdmc\atmosphere\contents\01008B101B87A000\pastehere
 
+IOS MENYUSUL YAAA :)
+
 Link Support: https://saweria.co/caramelio
