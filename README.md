@@ -28,6 +28,6 @@ CARA INSTALL UNTUK YANG DI IOS
 4. Cari aplikasi FM 24 Touchnya
 5. Klik 'View'
 6. Bikin folder languages
-7. Pastekan filenya ke folder languages (.ltc nya saja)
+7. Pastekan filenya ke folder languages (.fmf nya saja)
 
 Link Support: https://saweria.co/caramelio
