@@ -1,6 +1,11 @@
 Selamat datang di project Football Manager Bahasa Indonesia! Saya membuat project ini agar pengalaman bermain kalian akan lebih menyenangkan untuk yang tidak terbiasa dengan Bahasa Inggris. sehingga saya memutuskan untuk menerjemahkan Football Manager ke dalam bahasa Indonesia dan dibantu oleh AI, Terima kasih sudah support saya! :)
+***Disclaimer: dipastikan yang mentranslate FM24 Touch baru saya. Kalau ada selain saya setelah ini rilis kemungkinan besar stealing yaa!🤗***
 
 My Linkt.ree: https://linktr.ee/caramelioo
+
+Translate sudah 100% tinggal minor seperti subject belum diganti, kata translate yang belum tepat/bias, sama 'Very Few Format Errors'. Saya pastikan filenya tidak ada yang berkurang dari yang aslinya! :D
+**Nantinya juga akan ada versi yang status pemain, role, taktik, dan traits dikembalikan ke bahasa Inggris**
+``Untuk versi Mobile saya masih cari untuk menaruh lokasi yang tepat``
 
 -DOWNLOAD FILE ADA DI BAGIAN RELEASE-
 
