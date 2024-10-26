@@ -2,7 +2,6 @@ Selamat datang di project Football Manager Bahasa Indonesia! Saya membuat projec
 ***Disclaimer: dipastikan yang mentranslate FM24 Touch baru saya. Kalau ada selain saya setelah ini rilis kemungkinan besar stealing yaa!🤗***
 
 My Linkt.ree: https://linktr.ee/caramelioo
-Link Support: https://saweria.co/caramelio
 
 Translate sudah 100% tinggal minor seperti subject belum diganti, kata translate yang belum tepat/bias, sama 'Very Few Format Errors'. Saya pastikan filenya tidak ada yang berkurang dari yang aslinya! :D
 **Nantinya juga akan ada versi yang status pemain, role, taktik, dan traits dikembalikan ke bahasa Inggris**
@@ -30,3 +29,5 @@ CARA INSTALL UNTUK YANG DI IOS
 5. Klik 'View'
 6. Bikin folder languages
 7. Pastekan filenya ke folder languages
+
+Link Support: https://saweria.co/caramelio
