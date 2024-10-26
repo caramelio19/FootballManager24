@@ -7,7 +7,7 @@ Translate sudah 100% tinggal minor seperti subject belum diganti, kata translate
 **Nantinya juga akan ada versi yang status pemain, role, taktik, dan traits dikembalikan ke bahasa Inggris**
 ``Untuk versi Mobile saya masih cari untuk menaruh lokasi yang tepat``
 
--DOWNLOAD FILE ADA DI BAGIAN RELEASE-
+-DOWNLOAD FILE ADA DI BAGIAN RELEASE- (Untuk IOS/MacOS filenya beda check +1 Release)
 
 CARA INSTALL UNTUK YANG DI SWITCH
 
