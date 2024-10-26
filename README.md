@@ -8,14 +8,21 @@ CARA INSTALL UNTUK YANG DI SWITCH
 
 Paste file ke: atmosphere\contents\01008B101B87A000\pastehere
 
-CARA INSTALL UNTUK YANG DI EMULATOR PC (Yuzu atau yang lainnya)
+CARA INSTALL UNTUK YANG DI EMULATOR PC (Yuzu Emulator atau yang lainnya)
 
 Paste file ke: yuzu\sdmc\atmosphere\contents\01008B101B87A000\pastehere
 
-CARA INSTALL UNTUK YANG DI EMULATOR ANDROID
+CARA INSTALL UNTUK YANG DI EMULATOR ANDROID (Uzuy Emulator)
 
-Untuk yang di android biasanya ada di app\data\nama emu\sdmc\atmosphere\contents\01008B101B87A000\pastehere
+Untuk yang di android biasanya ada di android\data\org.uzuy.uzuy_emu\sdmc\atmosphere\contents\01008B101B87A000\pastehere
 
-IOS MENYUSUL YAAA :)
+CARA INSTALL UNTUK YANG DI IOS
+1. Download aplikasi 3utools
+2. Sambungkan devicenya ke PC (Macbook bisa langsung aja tanpa tools)
+3. Buka menu apps
+4. Cari aplikasi FM 24 Touchnya
+5. Klik 'View'
+6. Bikin folder languages
+7. Pastekan filenya ke folder languages
 
 Link Support: https://saweria.co/caramelio
